@@ -781,7 +781,6 @@ ${RED}[${WHITE}00${RED}]${ORANGE} Exit
 ## Main
 kill_pid
 dependencies
-check_status
 install_ngrok
 install_cloudflared
 install_localxpose
